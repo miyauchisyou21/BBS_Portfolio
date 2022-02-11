@@ -24,6 +24,7 @@
     </script>
 	<%}
 %>
+
   <br>
  <a href="/sukkiriShop/WelcomeServlet" class="btn btn--yellow btn--cubic">Top</a>
   </html>
